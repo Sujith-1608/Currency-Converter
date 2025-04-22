@@ -23,10 +23,12 @@ A simple, clean, and responsive web application for converting one currency to a
 - ExchangeRate API
 
 ## 🗂️ Folder Structure
-Currency-Converter/ 
-   ├── index.html # Main HTML file 
-   ├── styles.css # Stylesheet 
-   └── App.js # JavaScript for currency conversion logic
+```bash
+Currency-Converter/
+├── index.html     # Main HTML file
+├── styles.css     # Stylesheet
+└── App.js         # JavaScript for currency conversion logic
+```
 
 ## ⚙️ How to Use
 1. Clone the repository:
